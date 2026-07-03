@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+reportlab>=4.0
+
+# Optional, used automatically if available (this project was built without
+# network access to install them — see README.md "Substitutions" section):
+# xgboost
+# lightgbm
+# shap
+# umap-learn
+# streamlit

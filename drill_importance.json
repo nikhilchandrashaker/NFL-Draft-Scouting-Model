@@ -1,0 +1,902 @@
+{
+  "QB": {
+    "position": "QB",
+    "n": 477,
+    "rf_importance": {
+      "Height": 0.1516,
+      "Weight": 0.2041,
+      "40-yd Dash": 0.1427,
+      "Vertical Jump": 0.0857,
+      "Bench Press": 0.0015,
+      "Broad Jump": 0.1164,
+      "3-Cone Drill": 0.1999,
+      "20-yd Shuttle": 0.0979
+    },
+    "rf_importance_ranked": [
+      [
+        "Weight",
+        0.2041
+      ],
+      [
+        "3-Cone Drill",
+        0.1999
+      ],
+      [
+        "Height",
+        0.1516
+      ],
+      [
+        "40-yd Dash",
+        0.1427
+      ],
+      [
+        "Broad Jump",
+        0.1164
+      ],
+      [
+        "20-yd Shuttle",
+        0.0979
+      ],
+      [
+        "Vertical Jump",
+        0.0857
+      ],
+      [
+        "Bench Press",
+        0.0015
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.24,
+        "p_value": 0.0,
+        "n": 477
+      },
+      "Weight": {
+        "spearman_rho": -0.201,
+        "p_value": 0.0,
+        "n": 477
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.099,
+        "p_value": 0.0446,
+        "n": 414
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.162,
+        "p_value": 0.002,
+        "n": 363
+      },
+      "Bench Press": {
+        "spearman_rho": -0.45,
+        "p_value": 0.0466,
+        "n": 20
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.144,
+        "p_value": 0.0059,
+        "n": 364
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.209,
+        "p_value": 0.0001,
+        "n": 334
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.196,
+        "p_value": 0.0003,
+        "n": 340
+      }
+    }
+  },
+  "RB": {
+    "position": "RB",
+    "n": 901,
+    "rf_importance": {
+      "Height": 0.0392,
+      "Weight": 0.2315,
+      "40-yd Dash": 0.4349,
+      "Vertical Jump": 0.0504,
+      "Bench Press": 0.0359,
+      "Broad Jump": 0.0965,
+      "3-Cone Drill": 0.0624,
+      "20-yd Shuttle": 0.0493
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.4349
+      ],
+      [
+        "Weight",
+        0.2315
+      ],
+      [
+        "Broad Jump",
+        0.0965
+      ],
+      [
+        "3-Cone Drill",
+        0.0624
+      ],
+      [
+        "Vertical Jump",
+        0.0504
+      ],
+      [
+        "20-yd Shuttle",
+        0.0493
+      ],
+      [
+        "Height",
+        0.0392
+      ],
+      [
+        "Bench Press",
+        0.0359
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.067,
+        "p_value": 0.0443,
+        "n": 901
+      },
+      "Weight": {
+        "spearman_rho": -0.076,
+        "p_value": 0.0228,
+        "n": 901
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.382,
+        "p_value": 0.0,
+        "n": 837
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.177,
+        "p_value": 0.0,
+        "n": 734
+      },
+      "Bench Press": {
+        "spearman_rho": -0.093,
+        "p_value": 0.0195,
+        "n": 630
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.288,
+        "p_value": 0.0,
+        "n": 720
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.256,
+        "p_value": 0.0,
+        "n": 475
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.206,
+        "p_value": 0.0,
+        "n": 493
+      }
+    }
+  },
+  "WR": {
+    "position": "WR",
+    "n": 1246,
+    "rf_importance": {
+      "Height": 0.0328,
+      "Weight": 0.1166,
+      "40-yd Dash": 0.4959,
+      "Vertical Jump": 0.0741,
+      "Bench Press": 0.0358,
+      "Broad Jump": 0.069,
+      "3-Cone Drill": 0.0949,
+      "20-yd Shuttle": 0.0808
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.4959
+      ],
+      [
+        "Weight",
+        0.1166
+      ],
+      [
+        "3-Cone Drill",
+        0.0949
+      ],
+      [
+        "20-yd Shuttle",
+        0.0808
+      ],
+      [
+        "Vertical Jump",
+        0.0741
+      ],
+      [
+        "Broad Jump",
+        0.069
+      ],
+      [
+        "Bench Press",
+        0.0358
+      ],
+      [
+        "Height",
+        0.0328
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": 0.047,
+        "p_value": 0.0939,
+        "n": 1246
+      },
+      "Weight": {
+        "spearman_rho": -0.012,
+        "p_value": 0.6834,
+        "n": 1246
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.398,
+        "p_value": 0.0,
+        "n": 1162
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.222,
+        "p_value": 0.0,
+        "n": 1009
+      },
+      "Bench Press": {
+        "spearman_rho": -0.164,
+        "p_value": 0.0001,
+        "n": 554
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.193,
+        "p_value": 0.0,
+        "n": 979
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.224,
+        "p_value": 0.0,
+        "n": 716
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.218,
+        "p_value": 0.0,
+        "n": 740
+      }
+    }
+  },
+  "TE": {
+    "position": "TE",
+    "n": 512,
+    "rf_importance": {
+      "Height": 0.0591,
+      "Weight": 0.1919,
+      "40-yd Dash": 0.4399,
+      "Vertical Jump": 0.0465,
+      "Bench Press": 0.0764,
+      "Broad Jump": 0.062,
+      "3-Cone Drill": 0.0603,
+      "20-yd Shuttle": 0.0638
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.4399
+      ],
+      [
+        "Weight",
+        0.1919
+      ],
+      [
+        "Bench Press",
+        0.0764
+      ],
+      [
+        "20-yd Shuttle",
+        0.0638
+      ],
+      [
+        "Broad Jump",
+        0.062
+      ],
+      [
+        "3-Cone Drill",
+        0.0603
+      ],
+      [
+        "Height",
+        0.0591
+      ],
+      [
+        "Vertical Jump",
+        0.0465
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.133,
+        "p_value": 0.0025,
+        "n": 512
+      },
+      "Weight": {
+        "spearman_rho": -0.064,
+        "p_value": 0.1478,
+        "n": 512
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.374,
+        "p_value": 0.0,
+        "n": 452
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.254,
+        "p_value": 0.0,
+        "n": 388
+      },
+      "Bench Press": {
+        "spearman_rho": -0.256,
+        "p_value": 0.0,
+        "n": 354
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.266,
+        "p_value": 0.0,
+        "n": 379
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.271,
+        "p_value": 0.0,
+        "n": 308
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.228,
+        "p_value": 0.0,
+        "n": 316
+      }
+    }
+  },
+  "OL": {
+    "position": "OL",
+    "n": 1479,
+    "rf_importance": {
+      "Height": 0.0235,
+      "Weight": 0.2391,
+      "40-yd Dash": 0.3527,
+      "Vertical Jump": 0.0682,
+      "Bench Press": 0.0602,
+      "Broad Jump": 0.0696,
+      "3-Cone Drill": 0.0933,
+      "20-yd Shuttle": 0.0934
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.3527
+      ],
+      [
+        "Weight",
+        0.2391
+      ],
+      [
+        "20-yd Shuttle",
+        0.0934
+      ],
+      [
+        "3-Cone Drill",
+        0.0933
+      ],
+      [
+        "Broad Jump",
+        0.0696
+      ],
+      [
+        "Vertical Jump",
+        0.0682
+      ],
+      [
+        "Bench Press",
+        0.0602
+      ],
+      [
+        "Height",
+        0.0235
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.101,
+        "p_value": 0.0001,
+        "n": 1479
+      },
+      "Weight": {
+        "spearman_rho": -0.102,
+        "p_value": 0.0001,
+        "n": 1479
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.292,
+        "p_value": 0.0,
+        "n": 1336
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.219,
+        "p_value": 0.0,
+        "n": 1152
+      },
+      "Bench Press": {
+        "spearman_rho": -0.193,
+        "p_value": 0.0,
+        "n": 996
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.243,
+        "p_value": 0.0,
+        "n": 1131
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.25,
+        "p_value": 0.0,
+        "n": 981
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.246,
+        "p_value": 0.0,
+        "n": 1005
+      }
+    }
+  },
+  "EDGE": {
+    "position": "EDGE",
+    "n": 1158,
+    "rf_importance": {
+      "Height": 0.04,
+      "Weight": 0.226,
+      "40-yd Dash": 0.3593,
+      "Vertical Jump": 0.0658,
+      "Bench Press": 0.0534,
+      "Broad Jump": 0.1133,
+      "3-Cone Drill": 0.072,
+      "20-yd Shuttle": 0.0701
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.3593
+      ],
+      [
+        "Weight",
+        0.226
+      ],
+      [
+        "Broad Jump",
+        0.1133
+      ],
+      [
+        "3-Cone Drill",
+        0.072
+      ],
+      [
+        "20-yd Shuttle",
+        0.0701
+      ],
+      [
+        "Vertical Jump",
+        0.0658
+      ],
+      [
+        "Bench Press",
+        0.0534
+      ],
+      [
+        "Height",
+        0.04
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.083,
+        "p_value": 0.0048,
+        "n": 1158
+      },
+      "Weight": {
+        "spearman_rho": -0.078,
+        "p_value": 0.0078,
+        "n": 1158
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.321,
+        "p_value": 0.0,
+        "n": 1070
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.236,
+        "p_value": 0.0,
+        "n": 893
+      },
+      "Bench Press": {
+        "spearman_rho": -0.143,
+        "p_value": 0.0,
+        "n": 834
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.311,
+        "p_value": 0.0,
+        "n": 894
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.248,
+        "p_value": 0.0,
+        "n": 699
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.204,
+        "p_value": 0.0,
+        "n": 715
+      }
+    }
+  },
+  "LB": {
+    "position": "LB",
+    "n": 536,
+    "rf_importance": {
+      "Height": 0.042,
+      "Weight": 0.2133,
+      "40-yd Dash": 0.3883,
+      "Vertical Jump": 0.0948,
+      "Bench Press": 0.0941,
+      "Broad Jump": 0.053,
+      "3-Cone Drill": 0.0433,
+      "20-yd Shuttle": 0.0712
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.3883
+      ],
+      [
+        "Weight",
+        0.2133
+      ],
+      [
+        "Vertical Jump",
+        0.0948
+      ],
+      [
+        "Bench Press",
+        0.0941
+      ],
+      [
+        "20-yd Shuttle",
+        0.0712
+      ],
+      [
+        "Broad Jump",
+        0.053
+      ],
+      [
+        "3-Cone Drill",
+        0.0433
+      ],
+      [
+        "Height",
+        0.042
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.098,
+        "p_value": 0.024,
+        "n": 536
+      },
+      "Weight": {
+        "spearman_rho": -0.183,
+        "p_value": 0.0,
+        "n": 536
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.373,
+        "p_value": 0.0,
+        "n": 439
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.268,
+        "p_value": 0.0,
+        "n": 392
+      },
+      "Bench Press": {
+        "spearman_rho": -0.225,
+        "p_value": 0.0,
+        "n": 339
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.254,
+        "p_value": 0.0,
+        "n": 392
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.242,
+        "p_value": 0.0001,
+        "n": 265
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.283,
+        "p_value": 0.0,
+        "n": 276
+      }
+    }
+  },
+  "CB": {
+    "position": "CB",
+    "n": 990,
+    "rf_importance": {
+      "Height": 0.037,
+      "Weight": 0.1333,
+      "40-yd Dash": 0.5127,
+      "Vertical Jump": 0.0587,
+      "Bench Press": 0.074,
+      "Broad Jump": 0.0629,
+      "3-Cone Drill": 0.0526,
+      "20-yd Shuttle": 0.0688
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.5127
+      ],
+      [
+        "Weight",
+        0.1333
+      ],
+      [
+        "Bench Press",
+        0.074
+      ],
+      [
+        "20-yd Shuttle",
+        0.0688
+      ],
+      [
+        "Broad Jump",
+        0.0629
+      ],
+      [
+        "Vertical Jump",
+        0.0587
+      ],
+      [
+        "3-Cone Drill",
+        0.0526
+      ],
+      [
+        "Height",
+        0.037
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.065,
+        "p_value": 0.0404,
+        "n": 990
+      },
+      "Weight": {
+        "spearman_rho": -0.133,
+        "p_value": 0.0,
+        "n": 990
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.428,
+        "p_value": 0.0,
+        "n": 911
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.217,
+        "p_value": 0.0,
+        "n": 779
+      },
+      "Bench Press": {
+        "spearman_rho": -0.176,
+        "p_value": 0.0,
+        "n": 673
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.26,
+        "p_value": 0.0,
+        "n": 769
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.233,
+        "p_value": 0.0,
+        "n": 519
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.274,
+        "p_value": 0.0,
+        "n": 543
+      }
+    }
+  },
+  "S": {
+    "position": "S",
+    "n": 631,
+    "rf_importance": {
+      "Height": 0.0381,
+      "Weight": 0.1262,
+      "40-yd Dash": 0.4726,
+      "Vertical Jump": 0.098,
+      "Bench Press": 0.0383,
+      "Broad Jump": 0.0507,
+      "3-Cone Drill": 0.0762,
+      "20-yd Shuttle": 0.0997
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.4726
+      ],
+      [
+        "Weight",
+        0.1262
+      ],
+      [
+        "20-yd Shuttle",
+        0.0997
+      ],
+      [
+        "Vertical Jump",
+        0.098
+      ],
+      [
+        "3-Cone Drill",
+        0.0762
+      ],
+      [
+        "Broad Jump",
+        0.0507
+      ],
+      [
+        "Bench Press",
+        0.0383
+      ],
+      [
+        "Height",
+        0.0381
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.051,
+        "p_value": 0.2006,
+        "n": 631
+      },
+      "Weight": {
+        "spearman_rho": -0.094,
+        "p_value": 0.0176,
+        "n": 631
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.401,
+        "p_value": 0.0,
+        "n": 571
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.264,
+        "p_value": 0.0,
+        "n": 498
+      },
+      "Bench Press": {
+        "spearman_rho": -0.082,
+        "p_value": 0.0803,
+        "n": 457
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.248,
+        "p_value": 0.0,
+        "n": 492
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.256,
+        "p_value": 0.0,
+        "n": 332
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.208,
+        "p_value": 0.0001,
+        "n": 338
+      }
+    }
+  },
+  "DL": {
+    "position": "DL",
+    "n": 730,
+    "rf_importance": {
+      "Height": 0.0959,
+      "Weight": 0.2234,
+      "40-yd Dash": 0.3008,
+      "Vertical Jump": 0.0594,
+      "Bench Press": 0.0841,
+      "Broad Jump": 0.0533,
+      "3-Cone Drill": 0.0756,
+      "20-yd Shuttle": 0.1074
+    },
+    "rf_importance_ranked": [
+      [
+        "40-yd Dash",
+        0.3008
+      ],
+      [
+        "Weight",
+        0.2234
+      ],
+      [
+        "20-yd Shuttle",
+        0.1074
+      ],
+      [
+        "Height",
+        0.0959
+      ],
+      [
+        "Bench Press",
+        0.0841
+      ],
+      [
+        "3-Cone Drill",
+        0.0756
+      ],
+      [
+        "Vertical Jump",
+        0.0594
+      ],
+      [
+        "Broad Jump",
+        0.0533
+      ]
+    ],
+    "spearman_vs_draftvalue": {
+      "Height": {
+        "spearman_rho": -0.126,
+        "p_value": 0.0006,
+        "n": 730
+      },
+      "Weight": {
+        "spearman_rho": -0.073,
+        "p_value": 0.0483,
+        "n": 730
+      },
+      "40-yd Dash": {
+        "spearman_rho": 0.272,
+        "p_value": 0.0,
+        "n": 649
+      },
+      "Vertical Jump": {
+        "spearman_rho": -0.112,
+        "p_value": 0.0088,
+        "n": 550
+      },
+      "Bench Press": {
+        "spearman_rho": -0.144,
+        "p_value": 0.0012,
+        "n": 504
+      },
+      "Broad Jump": {
+        "spearman_rho": -0.132,
+        "p_value": 0.0024,
+        "n": 528
+      },
+      "3-Cone Drill": {
+        "spearman_rho": 0.135,
+        "p_value": 0.0051,
+        "n": 430
+      },
+      "20-yd Shuttle": {
+        "spearman_rho": 0.172,
+        "p_value": 0.0003,
+        "n": 444
+      }
+    }
+  }
+}

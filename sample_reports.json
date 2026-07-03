@@ -1,0 +1,549 @@
+{
+  "Travis Hunter": {
+    "player": "Travis Hunter",
+    "position": "CB",
+    "school": "Colorado",
+    "year": 2025,
+    "SAI": 78.4,
+    "athletic_grade": "B+ (Above Average)",
+    "actual_draft": {
+      "round": 1,
+      "pick": 2,
+      "drafted": true
+    },
+    "model_expected_round": "Round 6",
+    "model_expected_pick": 216.4,
+    "metrics": {
+      "40-yd Dash": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Vertical Jump": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Broad Jump": {
+        "value": null,
+        "position_percentile": null
+      },
+      "3-Cone Drill": {
+        "value": null,
+        "position_percentile": null
+      },
+      "20-yd Shuttle": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Bench Press": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Height": {
+        "value": 72.0,
+        "position_percentile": 53.3
+      },
+      "Weight": {
+        "value": 188.0,
+        "position_percentile": 27.3
+      }
+    },
+    "strengths": [
+      "No standout combine metrics (average across the board)"
+    ],
+    "weaknesses": [
+      "No significant combine weaknesses"
+    ],
+    "closest_comparables": [
+      {
+        "Player": "Mansoor Delane",
+        "PosGroup": "CB",
+        "School": "LSU",
+        "Year": 2026,
+        "Round": 1.0,
+        "Pick": 6.0,
+        "SAI": 76.9,
+        "similarity_pct": 100.0
+      },
+      {
+        "Player": "Derek Stingley",
+        "PosGroup": "CB",
+        "School": "LSU",
+        "Year": 2022,
+        "Round": 1.0,
+        "Pick": 3.0,
+        "SAI": 81.1,
+        "similarity_pct": 91.0
+      },
+      {
+        "Player": "Benjamin Morrison",
+        "PosGroup": "CB",
+        "School": "Notre Dame",
+        "Year": 2025,
+        "Round": 2.0,
+        "Pick": 53.0,
+        "SAI": 84.3,
+        "similarity_pct": 71.6
+      },
+      {
+        "Player": "Ashton Youboty",
+        "PosGroup": "CB",
+        "School": "Ohio State",
+        "Year": 2006,
+        "Round": 3.0,
+        "Pick": 70.0,
+        "SAI": 64.5,
+        "similarity_pct": 70.4
+      },
+      {
+        "Player": "John Dixon",
+        "PosGroup": "CB",
+        "School": "Penn St.",
+        "Year": 2024,
+        "Round": NaN,
+        "Pick": NaN,
+        "SAI": 84.9,
+        "similarity_pct": 69.0
+      }
+    ]
+  },
+  "Anthony Richardson": {
+    "player": "Anthony Richardson",
+    "position": "QB",
+    "school": "Florida",
+    "year": 2023,
+    "SAI": 98.2,
+    "athletic_grade": "A+ (Elite Freak Athlete)",
+    "actual_draft": {
+      "round": 1,
+      "pick": 4,
+      "drafted": true
+    },
+    "model_expected_round": "Round 2",
+    "model_expected_pick": 44.8,
+    "metrics": {
+      "40-yd Dash": {
+        "value": 4.43,
+        "position_percentile": 98.8
+      },
+      "Vertical Jump": {
+        "value": 40.5,
+        "position_percentile": 99.4
+      },
+      "Broad Jump": {
+        "value": 129.0,
+        "position_percentile": 99.2
+      },
+      "3-Cone Drill": {
+        "value": null,
+        "position_percentile": null
+      },
+      "20-yd Shuttle": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Bench Press": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Height": {
+        "value": 76.0,
+        "position_percentile": 69.4
+      },
+      "Weight": {
+        "value": 244.0,
+        "position_percentile": 96.4
+      }
+    },
+    "strengths": [
+      "40-yd Dash (99th percentile at QB)",
+      "Vertical Jump (99th percentile at QB)",
+      "Broad Jump (99th percentile at QB)",
+      "Weight (96th percentile at QB)"
+    ],
+    "weaknesses": [
+      "No significant combine weaknesses"
+    ],
+    "closest_comparables": [
+      {
+        "Player": "Cole Payton",
+        "PosGroup": "QB",
+        "School": "North Dakota St.",
+        "Year": 2026,
+        "Round": NaN,
+        "Pick": NaN,
+        "SAI": 84.4,
+        "similarity_pct": 100.0
+      },
+      {
+        "Player": "Taylen Green",
+        "PosGroup": "QB",
+        "School": "Arkansas",
+        "Year": 2026,
+        "Round": 6.0,
+        "Pick": 182.0,
+        "SAI": 71.8,
+        "similarity_pct": 74.1
+      },
+      {
+        "Player": "Robert Griffin",
+        "PosGroup": "QB",
+        "School": "Baylor",
+        "Year": 2012,
+        "Round": 1.0,
+        "Pick": 2.0,
+        "SAI": 90.5,
+        "similarity_pct": 66.1
+      },
+      {
+        "Player": "Cam Newton",
+        "PosGroup": "QB",
+        "School": "Auburn",
+        "Year": 2011,
+        "Round": 1.0,
+        "Pick": 1.0,
+        "SAI": 93.9,
+        "similarity_pct": 65.9
+      },
+      {
+        "Player": "Andrew Luck",
+        "PosGroup": "QB",
+        "School": "Stanford",
+        "Year": 2012,
+        "Round": 1.0,
+        "Pick": 1.0,
+        "SAI": 87.7,
+        "similarity_pct": 64.2
+      }
+    ]
+  },
+  "Saquon Barkley": {
+    "player": "Saquon Barkley",
+    "position": "RB",
+    "school": "Penn State",
+    "year": 2018,
+    "SAI": 89.1,
+    "athletic_grade": "A (Elite)",
+    "actual_draft": {
+      "round": 1,
+      "pick": 2,
+      "drafted": true
+    },
+    "model_expected_round": "Round 3",
+    "model_expected_pick": 72.1,
+    "metrics": {
+      "40-yd Dash": {
+        "value": 4.4,
+        "position_percentile": 91.2
+      },
+      "Vertical Jump": {
+        "value": 41.0,
+        "position_percentile": 97.7
+      },
+      "Broad Jump": {
+        "value": null,
+        "position_percentile": null
+      },
+      "3-Cone Drill": {
+        "value": null,
+        "position_percentile": null
+      },
+      "20-yd Shuttle": {
+        "value": 4.24,
+        "position_percentile": 59.4
+      },
+      "Bench Press": {
+        "value": 29.0,
+        "position_percentile": 95.4
+      },
+      "Height": {
+        "value": 72.0,
+        "position_percentile": 65.4
+      },
+      "Weight": {
+        "value": 233.0,
+        "position_percentile": 82.6
+      }
+    },
+    "strengths": [
+      "40-yd Dash (91th percentile at RB)",
+      "Vertical Jump (98th percentile at RB)",
+      "Bench Press (95th percentile at RB)",
+      "Weight (83th percentile at RB)"
+    ],
+    "weaknesses": [
+      "No significant combine weaknesses"
+    ],
+    "closest_comparables": [
+      {
+        "Player": "William Green",
+        "PosGroup": "RB",
+        "School": "Boston Col.",
+        "Year": 2002,
+        "Round": 1.0,
+        "Pick": 16.0,
+        "SAI": 64.8,
+        "similarity_pct": 100.0
+      },
+      {
+        "Player": "Tatum Bell",
+        "PosGroup": "RB",
+        "School": "Oklahoma State",
+        "Year": 2004,
+        "Round": 2.0,
+        "Pick": 41.0,
+        "SAI": 70.0,
+        "similarity_pct": 98.9
+      },
+      {
+        "Player": "Cedric Peerman",
+        "PosGroup": "RB",
+        "School": "Virginia",
+        "Year": 2009,
+        "Round": 6.0,
+        "Pick": 185.0,
+        "SAI": 75.0,
+        "similarity_pct": 91.8
+      },
+      {
+        "Player": "Zach Zenner",
+        "PosGroup": "RB",
+        "School": "South Dakota State",
+        "Year": 2015,
+        "Round": NaN,
+        "Pick": NaN,
+        "SAI": 66.6,
+        "similarity_pct": 90.7
+      },
+      {
+        "Player": "Ben Tate",
+        "PosGroup": "RB",
+        "School": "Auburn",
+        "Year": 2010,
+        "Round": 2.0,
+        "Pick": 58.0,
+        "SAI": 87.3,
+        "similarity_pct": 88.5
+      }
+    ]
+  },
+  "Tom Brady": {
+    "player": "Tom Brady",
+    "position": "QB",
+    "school": "Michigan",
+    "year": 2000,
+    "SAI": 9.8,
+    "athletic_grade": "F (Well Below Average)",
+    "actual_draft": {
+      "round": 6,
+      "pick": 199,
+      "drafted": true
+    },
+    "model_expected_round": "Round 7",
+    "model_expected_pick": 239.8,
+    "metrics": {
+      "40-yd Dash": {
+        "value": 5.28,
+        "position_percentile": 0.7
+      },
+      "Vertical Jump": {
+        "value": 24.5,
+        "position_percentile": 1.4
+      },
+      "Broad Jump": {
+        "value": 99.0,
+        "position_percentile": 2.2
+      },
+      "3-Cone Drill": {
+        "value": 7.2,
+        "position_percentile": 36.8
+      },
+      "20-yd Shuttle": {
+        "value": 4.38,
+        "position_percentile": 40.6
+      },
+      "Bench Press": {
+        "value": null,
+        "position_percentile": null
+      },
+      "Height": {
+        "value": 76.0,
+        "position_percentile": 69.4
+      },
+      "Weight": {
+        "value": 211.0,
+        "position_percentile": 14.9
+      }
+    },
+    "strengths": [
+      "No standout combine metrics (average across the board)"
+    ],
+    "weaknesses": [
+      "40-yd Dash (1th percentile at QB)",
+      "Vertical Jump (1th percentile at QB)",
+      "Broad Jump (2th percentile at QB)",
+      "Weight (15th percentile at QB)"
+    ],
+    "closest_comparables": [
+      {
+        "Player": "Todd Husak",
+        "PosGroup": "QB",
+        "School": "Stanford",
+        "Year": 2000,
+        "Round": 6.0,
+        "Pick": 202.0,
+        "SAI": 14.7,
+        "similarity_pct": 100.0
+      },
+      {
+        "Player": "Jeff Mathews",
+        "PosGroup": "QB",
+        "School": "Cornell",
+        "Year": 2014,
+        "Round": NaN,
+        "Pick": NaN,
+        "SAI": 20.2,
+        "similarity_pct": 94.7
+      },
+      {
+        "Player": "Drew Olson",
+        "PosGroup": "QB",
+        "School": "UCLA",
+        "Year": 2006,
+        "Round": NaN,
+        "Pick": NaN,
+        "SAI": 25.1,
+        "similarity_pct": 79.0
+      },
+      {
+        "Player": "Brandon Doughty",
+        "PosGroup": "QB",
+        "School": "Western Kentucky",
+        "Year": 2016,
+        "Round": 7.0,
+        "Pick": 223.0,
+        "SAI": 7.0,
+        "similarity_pct": 74.8
+      },
+      {
+        "Player": "Mike White",
+        "PosGroup": "QB",
+        "School": "Western Kentucky",
+        "Year": 2018,
+        "Round": 5.0,
+        "Pick": 171.0,
+        "SAI": 9.6,
+        "similarity_pct": 73.9
+      }
+    ]
+  },
+  "Micah Parsons": {
+    "player": "Micah Parsons",
+    "position": "LB",
+    "school": "Penn St.",
+    "year": 2021,
+    "SAI": 73.2,
+    "athletic_grade": "B (Solid)",
+    "actual_draft": {
+      "round": 1,
+      "pick": 12,
+      "drafted": true
+    },
+    "model_expected_round": "Round 1",
+    "model_expected_pick": 31.8,
+    "metrics": {
+      "40-yd Dash": {
+        "value": 4.39,
+        "position_percentile": 99.1
+      },
+      "Vertical Jump": {
+        "value": 34.0,
+        "position_percentile": 51.0
+      },
+      "Broad Jump": {
+        "value": 126.0,
+        "position_percentile": 91.1
+      },
+      "3-Cone Drill": {
+        "value": 6.89,
+        "position_percentile": 89.1
+      },
+      "20-yd Shuttle": {
+        "value": 4.4,
+        "position_percentile": 23.2
+      },
+      "Bench Press": {
+        "value": 19.0,
+        "position_percentile": 21.8
+      },
+      "Height": {
+        "value": 75.0,
+        "position_percentile": 78.7
+      },
+      "Weight": {
+        "value": 246.0,
+        "position_percentile": 81.7
+      }
+    },
+    "strengths": [
+      "40-yd Dash (99th percentile at LB)",
+      "Broad Jump (91th percentile at LB)",
+      "3-Cone Drill (89th percentile at LB)",
+      "Weight (82th percentile at LB)"
+    ],
+    "weaknesses": [
+      "No significant combine weaknesses"
+    ],
+    "closest_comparables": [
+      {
+        "Player": "Martez Wilson",
+        "PosGroup": "LB",
+        "School": "Illinois",
+        "Year": 2011,
+        "Round": 3.0,
+        "Pick": 72.0,
+        "SAI": 76.2,
+        "similarity_pct": 100.0
+      },
+      {
+        "Player": "Troy Andersen",
+        "PosGroup": "LB",
+        "School": "Montana St.",
+        "Year": 2022,
+        "Round": 2.0,
+        "Pick": 58.0,
+        "SAI": 90.3,
+        "similarity_pct": 95.5
+      },
+      {
+        "Player": "Jihaad Campbell",
+        "PosGroup": "LB",
+        "School": "Alabama",
+        "Year": 2025,
+        "Round": 1.0,
+        "Pick": 31.0,
+        "SAI": 82.2,
+        "similarity_pct": 89.8
+      },
+      {
+        "Player": "Damone Clark",
+        "PosGroup": "LB",
+        "School": "LSU",
+        "Year": 2022,
+        "Round": 5.0,
+        "Pick": 176.0,
+        "SAI": 84.2,
+        "similarity_pct": 88.8
+      },
+      {
+        "Player": "Malik Harrison",
+        "PosGroup": "LB",
+        "School": "Ohio State",
+        "Year": 2020,
+        "Round": 3.0,
+        "Pick": 98.0,
+        "SAI": 82.0,
+        "similarity_pct": 88.7
+      }
+    ]
+  }
+}

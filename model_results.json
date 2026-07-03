@@ -1,0 +1,34 @@
+{
+  "results_by_model": {
+    "RandomForest": {
+      "MAE": 81.51,
+      "RMSE": 94.8,
+      "R2": 0.2163
+    },
+    "GradientBoosting": {
+      "MAE": 81.21,
+      "RMSE": 95.0,
+      "R2": 0.213
+    },
+    "HistGradientBoosting": {
+      "MAE": 80.58,
+      "RMSE": 95.43,
+      "R2": 0.2059
+    }
+  },
+  "best_model": "HistGradientBoosting",
+  "feature_importance_best_model": {
+    "40-yd Dash": 0.42381,
+    "Weight": 0.41236,
+    "PosGroup": 0.03691,
+    "3-Cone Drill": 0.03372,
+    "Bench Press": 0.02458,
+    "Height": 0.02429,
+    "20-yd Shuttle": 0.02244,
+    "Vertical Jump": 0.01727,
+    "Broad Jump": 0.01339
+  },
+  "n_train": 7174,
+  "n_test": 1794,
+  "target_definition": "DraftValue = actual overall pick number; undrafted players set to (max pick in their class + 50) so the model treats them as 'drafted much later' on a continuous scale."
+}
